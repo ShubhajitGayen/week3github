@@ -103,6 +103,6 @@ Skill Gain
 
 Real-world class design and object interaction
 
-Students will gain practical experience designing reusable classes, managing object relationships, handling errors, and applying OOP concepts to a real-world billing application.
+
 
 
